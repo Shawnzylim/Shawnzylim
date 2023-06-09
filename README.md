@@ -26,7 +26,7 @@
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <div>
-<h2 align="left">Backend Development</h2>
+<!-- <h2 align="left">Backend Development</h2>
 <div>
 <!--  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
 <div>
